@@ -28,4 +28,4 @@ Sinta-se à vontade para explorar o código, replicar o projeto ou sugerir melho
 
 ---
 **Autor:** Matheus Leandro da Silva
-**LinkedIn:** [Seu Link do LinkedIn]
+**LinkedIn:** www.linkedin.com/in/matheus-leandro-558205224
